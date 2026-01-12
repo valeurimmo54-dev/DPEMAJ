@@ -1,0 +1,5 @@
+{
+  "name": "Explorateur DPE Communes",
+  "description": "Application pour visualiser et exporter les Diagnostics de Performance Énergétique (DPE) pour une liste spécifique de communes françaises via l'API ADEME.",
+  "requestFramePermissions": []
+}
